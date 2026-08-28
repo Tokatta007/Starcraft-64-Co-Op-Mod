@@ -112,7 +112,7 @@ This mod is distributed as a **patch**, not a full ROM. To use it:
 - Original game: **StarCraft 64** (Blizzard / Mass Media / Nintendo).
 - Map extraction made possible by **heinermann's BOLTextract**
   (github.com/heinermann/BOLTextract).
-- Thanks to **FaRTy1billion**, **Warranty Voider**, **blackgamma7**, and the
+- Thanks to **Heinermann**, **FaRTy1billion**, **Warranty Voider**, **blackgamma7**, and the
   **staredit.net** community for tools, documentation, and reverse-engineering
   groundwork that made this possible.
 
